@@ -1,10 +1,12 @@
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
+    background: linear-gradient(to right, #be88f9, #f583a5);
     padding: 20px;
     background-color: #eaddf2;
     color: #333;
 }
+
 
 .container {
     max-width: 600px;
